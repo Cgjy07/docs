@@ -489,7 +489,7 @@ unsupported-settings:
       control sand duplication
   allow-unsafe-end-portal-teleportation:
     vanilla: "true"
-    default: "false"
+    default: "true"
     description: >-
       This setting allows for exploits related to end portal teleportation to be
       possible, for example sand duplication. This
